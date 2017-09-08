@@ -124,7 +124,7 @@ a:focus{ text-decoration:none;}
 .navbar-default{ width:100%; float:left; border-radius:0; border:none; background:none; margin:0; padding:10px 0; z-index:10;}
 .navbar-default {-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-ms-transition: .25s ease-in-out; -o-transition: .25s ease-in-out; transition: .25s ease-in-out;}
 .navbar-default *{-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-ms-transition: .25s ease-in-out; -o-transition: .25s ease-in-out; transition: .25s ease-in-out;}
-.navbar-default.fixed-bg{ background:rgba(0,0,0,0.5);}
+.navbar-default.fixed-bg{ background:rgba(0,0,0,0.6);}
 .navbar-default.fixed-bg .purchase{ background:none; color:#fff;}
 .navbar-default.fixed-bg .purchase:hover{ color:#fff;}
 .navbar-default.fixed-bg .navbar-brand .logo-dark{ display:block;}
