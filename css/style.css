@@ -94,9 +94,11 @@ a:focus{ text-decoration:none;}
 .header .hero-content h1{ font-size:8vw; font-weight:700; margin-bottom:10px; margin-top:15vh; text-shadow:4px 4px 10px rgba(0,0,0,0.15);}
 .header .hero-content h5{ padding:0 10%; font-size:18px; line-height:30px; font-weight:300; margin-bottom:30px;}
 .header .hero-content h5 span{ display:inline-block; border-bottom:1px dotted #fff; font-weight:500;}
-.header .hero-content a{ display:inline-block; line-height:60px; height:60px; padding:0 50px; font-size:17px; color:#fff; margin-bottom:10vh; border-radius:50px; font-weight:700; background:#2CD1C0; box-shadow:0 20px 30px rgba(0,0,0,0.05);}
+.header .hero-content a{ display:inline-block; line-height:60px; height:60px; padding:0 50px; font-size:17px; color:#fff; margin-bottom:5vh; border-radius:50px; font-weight:700; background:#2CD1C0; box-shadow:0 20px 30px rgba(0,0,0,0.05);}
 .header .hero-content a:hover{ text-decoration:none; box-shadow:0 20px 30px rgba(0,0,0,0.2);}
-.header .hero-content img{ height:80vh; display:inline-block;}
+.header .hero-content img {display:inline-block;}
+.header .hero-content .mobile-mock{ height:80vh;}
+.header .hero-content .encontrar-header{ height:25vh; margin-top:10vh;}
 
 
 
